@@ -29,7 +29,7 @@ A responsive and interactive college search web app built using **Next.js**, **T
 
 You can use the following credentials to test the login flow:
 
-Email: admin@example.com
+Email: student@example.com
 Password: password123
 
 
