@@ -42,7 +42,7 @@ Password: password123
 ### 1. Clone the repo
 
 
-git clone https://github.com/your-username/college-finder.git
+git clone https://github.com/Anshika-404/college-finder.git
 cd college-finder
 
 ### 2. Install dependencies
@@ -93,6 +93,7 @@ Now open http://localhost:3000 in your browser.
 
 🧑‍💻 Author
 Anshika Verma
+
 GitHub: @Anshika-404
 
 ---
